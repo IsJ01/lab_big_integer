@@ -4,8 +4,8 @@
 
 | Field     | Value               |
 |-----------|---------------------|
-| **Name**  | _John Doe_          |
-| **Group** | _CS-101_            |
+| **Name**  | _Ислам И.Ш_          |
+| **Group** | _ПОВТИАС_            |
 
 > **Replace the data above with your own!**
 
